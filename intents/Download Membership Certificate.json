@@ -1,0 +1,37 @@
+{
+  "id": "7e608221-10e5-4987-b2f3-72bea031edd3",
+  "name": "Download Membership Certificate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can download your SPIE membership certificate here: [https://spie.org/account/dashboard].",
+            "Click on this link to download your certificate: [https://spie.org/account/dashboard].",
+            "Download your membership certificate from this[https://spie.org/account/dashboard]."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

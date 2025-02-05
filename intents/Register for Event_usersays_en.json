@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3dfd845b-bafe-4d09-a18b-43678c80f88a",
+    "data": [
+      {
+        "text": "I want to register\", \"Sign me up for SPIE Optics Workshop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47698b85-0036-468b-a2d8-6543c9ca734f",
+    "data": [
+      {
+        "text": "I\u0027d like to join the SPIE event on ",
+        "userDefined": false
+      },
+      {
+        "text": "January 25th.",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceacc0d2-a6f2-4fe4-b8b2-1f42e80c4800",
+    "data": [
+      {
+        "text": "Can I register for SPIE Annual Conference?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8501f488-6c96-445f-bdc0-b7cb73fdcc0a",
+    "data": [
+      {
+        "text": "Register me for the next SPIE event.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bf70eca-8ba6-4aa4-b706-1643976a4d2f",
+    "data": [
+      {
+        "text": "Sign me up for the SPIE Optics Workshop.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2cb06b1-3bda-47e6-8e16-b7eaa4588a2c",
+    "data": [
+      {
+        "text": "I want to register for the event.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

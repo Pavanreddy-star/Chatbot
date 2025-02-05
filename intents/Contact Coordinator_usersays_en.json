@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8f661708-8aac-4d7e-8625-5a507313297e",
+    "data": [
+      {
+        "text": "Who is the coordinator for SPIE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5548c715-0a98-4c13-b1d3-1f58a8a53d01",
+    "data": [
+      {
+        "text": "I need the coordinator\u0027s phone number.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1310b76e-7102-45e7-8c36-64c03d8a6ea2",
+    "data": [
+      {
+        "text": "What\u0027s the coordinator\u0027s email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "890eaf46-31fd-453c-9599-5f2a025ab7f4",
+    "data": [
+      {
+        "text": "Give me the contact details of the SPIE coordinator.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "425827bd-1821-4994-9dd7-9b5005defb85",
+    "data": [
+      {
+        "text": "How can I contact the coordinator?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

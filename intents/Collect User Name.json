@@ -1,0 +1,93 @@
+{
+  "id": "028e3a60-e35c-4c56-a8fe-14da3887286c",
+  "parentId": "9c0a8026-4989-4157-8b50-f769aef06485",
+  "rootParentId": "9c0a8026-4989-4157-8b50-f769aef06485",
+  "name": "Collect User Name",
+  "auto": true,
+  "contexts": [
+    "RegisterforEvent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "storeUserName",
+      "affectedContexts": [
+        {
+          "name": "CollectUserName-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cc6caca5-b5c0-49c0-8885-28c3957af2e0",
+          "name": "name",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your full name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3ffcc75c-5aa1-49dd-bcd8-b2e3bf6bc508",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "09b37550-6385-4be6-98dc-32e30018c69e",
+          "name": "username",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "value": "$username",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you, $name! Could you now provide your email address?",
+            "Nice to meet you, $name! What\u0027s your email?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

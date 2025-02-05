@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7b40da3e-ac40-41c3-b209-58d04737369c",
+    "data": [
+      {
+        "text": "what SPIE website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df52c1b4-10c8-4863-8319-e7c95d916b3e",
+    "data": [
+      {
+        "text": "Is SPIE accepting new members?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba1b46cc-a750-48de-b32c-3ee4c4850634",
+    "data": [
+      {
+        "text": "What is SPIE membership?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af4cbb0d-2ae5-4040-bbdd-94c261053c57",
+    "data": [
+      {
+        "text": "Tell me how to become a member of SPIE.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08251e68-d76b-4f9b-b45b-8ee3229151bb",
+    "data": [
+      {
+        "text": "What are the benefits of being a SPIE member?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d91f67e1-41de-4d91-941d-c2aebd231f3f",
+    "data": [
+      {
+        "text": "How do I join SPIE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "4e87f29f-9bd0-42b1-a6bf-22540392479e",
+  "name": "Learn About Membership",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To become a member of SPIE, visit [https://spie.org/membership/options]",
+            "You can join SPIE by filling out the form on our membership page. Check it out here: [https://spie.org/membership/options]",
+            "Being a member of SPIE offers great benefits, including access to exclusive events and workshops",
+            "This is SPIE website link[https://r.search.yahoo.com/_ylt\u003dAwrx..wFJ5JnFgIAh2m7HAx.;_ylu\u003dY29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV\u003d2/RE\u003d1738841094/RO\u003d10/RU\u003dhttps%3a%2f%2fspie.org%2f/RK\u003d2/RS\u003dmxzMh9z2R0_24Fm9yw77vxYmJMI-]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

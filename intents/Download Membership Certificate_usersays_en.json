@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2fe2aa23-9721-41a8-a273-0bb93d5e9912",
+    "data": [
+      {
+        "text": "Where can I get my certificate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5337fc0f-3b3d-43dc-b6fa-9af2db56a26a",
+    "data": [
+      {
+        "text": "Download my certificate.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2aeee8bd-4093-41ec-ac86-f7d294d63c07",
+    "data": [
+      {
+        "text": "I need to get my SPIE membership certificate.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb9eb32a-d3fe-4fec-8123-a1cd86f51bda",
+    "data": [
+      {
+        "text": "Can I download my certificate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c704810-5efd-4fc4-8246-eae697c6e28d",
+    "data": [
+      {
+        "text": "How do I get my membership certificate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

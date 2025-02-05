@@ -1,0 +1,9 @@
+{
+  "id": "b89939fc-c648-4f87-9893-e09439ec0385",
+  "name": "userEmail",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

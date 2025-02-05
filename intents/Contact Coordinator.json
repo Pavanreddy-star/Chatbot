@@ -1,0 +1,37 @@
+{
+  "id": "336ccc44-820d-4a15-b3a8-a77e162a7705",
+  "name": "Contact Coordinator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can contact the SPIE coordinator at [ppavankumarreddy3202@gmail.com] or call [7981950575].",
+            "The coordinator for SPIE is [P Pavan Kumar Reddy]. You can reach them via email at [ppavankumarreddy3202@gmail.com] or phone at [7981950575].",
+            "Coordinator of SPIE is Mr.P Pavan Kumar Reddy"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

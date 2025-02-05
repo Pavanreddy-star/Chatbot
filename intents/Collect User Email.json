@@ -1,0 +1,61 @@
+{
+  "id": "2b71aae8-fa59-48ba-b3e8-40fea2f6ca7b",
+  "parentId": "028e3a60-e35c-4c56-a8fe-14da3887286c",
+  "rootParentId": "9c0a8026-4989-4157-8b50-f769aef06485",
+  "name": "Collect User Email",
+  "auto": true,
+  "contexts": [
+    "CollectUserName-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "storeUserEmail",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c4d9001-1c8c-49bf-989b-81551cfaea56",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your email address?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please provide your email address.",
+            "Got it, $email. You\u0027re now registered for the event. Thank you!",
+            "This response acknowledges the email and completes the registration process"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

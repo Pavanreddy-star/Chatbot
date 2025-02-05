@@ -1,0 +1,106 @@
+[
+  {
+    "id": "af629d41-5c47-413f-bec7-57b189ca2623",
+    "data": [
+      {
+        "text": "I can be contacted at [email]",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5119c227-70f9-402d-8edc-07b894966d68",
+    "data": [
+      {
+        "text": "My email address is [email]",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "399475e1-deb7-49a9-9b37-686bd7781631",
+    "data": [
+      {
+        "text": "You can reach me at [email]",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc8426e7-d2a8-49c8-9272-b64ff934fc92",
+    "data": [
+      {
+        "text": "My email is [email]",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7674b8a-18aa-494c-934e-1008b52eb0e0",
+    "data": [
+      {
+        "text": "[email] is my email address.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58fdbf36-cffb-4a4e-a32e-bb57c9fa35a8",
+    "data": [
+      {
+        "text": "You can email me at [email].",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edbd4f6a-3e8c-4313-a93b-76c73f6fd2df",
+    "data": [
+      {
+        "text": "I can be reached at [email].",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6234dfa1-885e-426f-9def-6146412dab31",
+    "data": [
+      {
+        "text": "My email is [email].",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

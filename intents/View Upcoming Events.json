@@ -1,0 +1,36 @@
+{
+  "id": "6ef0e0f1-cd26-4817-b94b-e855bc666d82",
+  "name": "View Upcoming Events",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are the upcoming events for SPIE. Would you like to know more about any of these events?",
+            "The next events are: SPIE Optics Workshop on January 25th, and SPIE Annual Conference on February 5th. Let me know if you want more details!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f78c977b-e0b3-4c97-9083-585e86697dc3",
+    "data": [
+      {
+        "text": "List the upcoming events of SPIE.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7824e034-4d90-41df-933f-a0a511bcd945",
+    "data": [
+      {
+        "text": "Give me the list of upcoming events.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d287a783-01c9-47e8-bc6d-d79d9762e563",
+    "data": [
+      {
+        "text": "What events are happening soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45423a0f-6cb9-403e-b425-981a6dfc57a9",
+    "data": [
+      {
+        "text": "Tell me about upcoming events.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "466a4314-7f3f-4efa-a3ee-5d37116a0ddc",
+    "data": [
+      {
+        "text": "What are the upcoming events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
